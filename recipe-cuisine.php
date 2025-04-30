@@ -3,7 +3,7 @@
  * Plugin Name: Recipe Cuisine Detector
  * Description: Determines the cuisine type from recipe URL and stores it in ACF field 'cuisine'.
  * Version: 1.1
- * Author: Your Name
+ * Author: Dave Dodson
  */
 
 // Register settings page
